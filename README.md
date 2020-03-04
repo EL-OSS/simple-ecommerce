@@ -1,5 +1,5 @@
 # simple-ecommerce
-Simple e-commerce boilerplate with JS and React
+Simple e-commerce boilerplate with Javascript JS and React
 
 ![alt text](https://github.com/EL-OSS/simple-ecommerce/blob/master/simple-ecommerce-preview.png)
 
