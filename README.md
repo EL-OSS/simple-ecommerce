@@ -1,6 +1,8 @@
 # simple-ecommerce
 Simple e-commerce boilerplate with JS and React
 
+![alt text](https://github.com/EL-OSS/simple-ecommerce/blob/master/simple-ecommerce-preview.png)
+
 ## Some parameters to use immediately:
 
 ### TOTAL PRODUCTS
@@ -27,7 +29,7 @@ var products = [{
 }];
 ```
 
-### TOTAL PRODUCTS
+### HOW MANY PRODUCTS PER PAGE
 > Line 446 - 467
 ```
 if(totalProducts >=20) {
@@ -42,3 +44,6 @@ _this.state= {
 index: 1, placeholder: productArray, itemPerPage: 10, products: products, value: "Sort"
 }
 ```
+
+## License
+This project is licensed under the GNU License - see the LICENSE.md file for details
